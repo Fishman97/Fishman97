@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! Thanks for visiting!
+
+## Visit my portfolio to see my most interesting projects! 👉 [pierami.eu](https://pierami.eu)
 
 <!--
 **Fishman97/Fishman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
